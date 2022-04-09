@@ -17,7 +17,7 @@
     "core-js": "^3.4.4",
     "materialize": "^1.0.0",
     "materialize-css": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "momentjs": "^2.0.0",
     "primeicons": "^2.0.0",
     "primevue": "^1.0.2",
